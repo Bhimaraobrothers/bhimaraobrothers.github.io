@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://photos.google.com/u/3/photo/AF1QipMtocObEsAeoBduRtZzvFO7cKUIAGJ1-uUANkG3" alt="Dr.BR.Ambedkar" height="603" width="576">
+<img src="https://drive.google.com/open?id=1C1A4e0Z_KmiDxCyZ6z-OajMuodbLuF7OBg" alt="Dr.BR.Ambedkar" height="603" width="576">
