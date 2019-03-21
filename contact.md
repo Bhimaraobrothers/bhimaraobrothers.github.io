@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-Kallappalayam Ambedkar Nagar<br> Vellarivelli<br> Edappadi<br> Salem-637101<br> Mob NO-6382849269<br> Email-bhimaraobrothers@gmail.com<hr>
+Kallappalayam Ambedkar Nagar<br> Vellarivelli<br> Edappadi<br> Salem-637101<br> Mob NO-6382849269<br> Email-bhimaraobrothers@gmail.com
 
 
 ### For More Details
