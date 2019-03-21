@@ -10,7 +10,7 @@ Kallappalayam Ambedkar Nagar<br> Vellarivelli<br> Edappadi<br> Salem-637101<br> 
 
 ### For More Details
 
-Fill in the form or [email me](mailto:{{bhimaraobrothers@gmail.com}}) to discuss your next project.
+Fill in the form or [email me](mailto:{{bhimaraobrothers@gmail.com}}) to discuss with us.
 
 {% include form.html %}
 
