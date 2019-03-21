@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some artiaaacles are just so long they deserve a really long title to see if things will break well"
-featured-img: shane-rounce-205187
+title: "DR.ABETKAR"
+featured-img: AMBETHKAR LOGO004
 categories: [Sample, Guides]
 ---
 
