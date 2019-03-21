@@ -2,15 +2,13 @@
 title: BhimaraoBrothers # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  Bhimarao Brothers
+baseurl: "/bhimaraobrothers" # the subpath of your site, e.g. /blog
 url: "https://bhimaraobrothers.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Bhimarao Brothers
   links:
     - https://twitter.com/
     - https://www.facebook.com/
@@ -26,11 +24,11 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Kallappalayam Ambedkar Nagar Edappadi
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: your-bhimaraobrother@gmail.com # email for form submission
 
 twitter_username:  # replace with your_twitter_username or comment to remove link from footer
 github_username:   # replace with your_github_username or comment to remove link from footer
