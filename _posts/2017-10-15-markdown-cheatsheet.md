@@ -189,7 +189,7 @@ Reference-style:
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://drive.google.com/open?id=1C1A4e0Z_KmiDxCyZ6z-OajMuodbLuF7OBg "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
