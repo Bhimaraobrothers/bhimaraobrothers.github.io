@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Dr.BR.Ambedkar
-summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
-
-featured-img:AMBETHKAR LOGO004_placehold
-categories: Guides
+title: "Some artiaaacles are just so long they deserve a really long title to see if things will break well"
+featured-img: shane-rounce-205187
+categories: [Sample, Guides]
 ---
+
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
