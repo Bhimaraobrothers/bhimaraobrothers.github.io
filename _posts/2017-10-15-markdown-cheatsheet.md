@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DR.ABETKAR"
+title: "DR.AMBEDKAR"
 featured-img: AMBETHKAR LOGO004
 categories: [Sample, Guides]
 ---
