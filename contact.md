@@ -5,10 +5,7 @@ permalink: /contact/
 ---
 
 
-Kallappalayam Ambedkar Nagar
-Vellarivelli
-Edappadi
-Salem-637101
+Kallappalayam Ambedkar Nagar<hr> Vellarivelli<hr> Edappadi<hr> Salem-637101
 
 
 ### For More Details
