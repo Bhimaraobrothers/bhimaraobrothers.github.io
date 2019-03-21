@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   Kallappalayam Ambedkar Nagar Edappadi
 
-hero_img: posts/AMBETHKAR LOGO004_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/AMBETHKAR LOGO004_lg.jpg
+hero_img: posts/am_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/am_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
