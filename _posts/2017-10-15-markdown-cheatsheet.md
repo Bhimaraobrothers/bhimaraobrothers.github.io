@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "DR.AMBEDKAR"
+title: "DR.BR.AMBEDKAR"
 featured-img: AMBETHKAR LOGO004
-categories: [Sample, Guides]
+categories: [History, Guides]
 ---
 
 
